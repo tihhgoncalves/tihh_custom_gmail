@@ -1,0 +1,42 @@
+/** Fonte **/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*, 
+body,
+.zA>.a4W
+{
+  font-family: 'Montserrat', sans-serif;!important;
+   /**color: red!important;**/
+}
+
+.ii *{
+    font-family:arial,sans-serif!important;
+    /**color:blue!important; **/
+}
+
+/** Cantosa aredondados **/
+.WR .z0>.L3{
+  border-radius: 7px!important;
+  text-transform: uppercase;
+}
+.aDG{
+  border-radius: 3px;
+  padding: 2px 8px;
+}
+.aKz{
+  text-transform: uppercase;
+  font-size: 13px!important;
+}
+
+.WR .z0>.L3{
+  min-width: 207px;
+}
+
+.WR .z0>.L3:hover,
+.WR .z0>.L3:focus{
+  box-shadow: none;
+}
+
+.TK .TO, .n6 .ah9, .CL{
+  border-radius: 0 5px 5px 0;
+}
